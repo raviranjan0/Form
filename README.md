@@ -7,6 +7,8 @@ Collects essential information for registration:
 - Name
 - father's Name
 - Mother's Name
+- Date of Birth
+- Gender
 - Favorite Color
 - Favorite Subject
 - Easy-to-understand and user-friendly interface.
