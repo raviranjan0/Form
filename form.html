@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registstion form</title>
+    <style>
+      .form {
+        background-color: #eeb1b1;
+        margin: 80px 200px 100px 400px;
+        color: black;
+        width: 500px;
+        padding: 10px;
+        font-size: larger;
+        font-family: cursive;
+      }
+
+      .form h1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+      }
+
+      .button{
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <table>
+      <tr>
+        <td>
+          <div class="form">
+            <h1>Registration Form</h1>
+            <form>
+              <label for="name">Name:</label>
+              <input type="text" placeholder="Enter your Name" id="name" />
+              <br />
+              <br />
+
+              <label for="Father's Name">Father's Name:</label>
+              <input
+                type="text"
+                placeholder="Enter your father's Name"
+                id="Father's Name"
+              />
+              <br />
+              <br />
+
+              <label for="Mother's Name">Mother's Name:</label>
+              <input
+                type="text"
+                placeholder="Enter your Mother's Name"
+                id="Mother's Name"
+              />
+              <br />
+              <br />
+
+              <label for="DOB">Date of Birth:</label>
+              <input type="datetime-local" name="DOB" id="DOB" /> <br />
+              <br />
+
+              <label for="email"> Email:</label>
+              <input type="email" placeholder="Enter your email " id="email" />
+              <br />
+              <br />
+
+              <p>Choose your Gender:</p>
+              <input type="radio" name="Gender" id="Gender" />
+              <label for="Gender">Male</label>
+
+              <input type="radio" name="Gender" id="Gender" />
+              <label for="Gender">Female</label> <br />
+              <br />
+
+              <label for="Mob No."> Mob No. :</label>
+              <input type="number" name="Mob no." id="Mob No." /> <br />
+              <br />
+
+              <label for="color">Choose your favourite color:</label>
+              <input type="color" name="color" id="color" /> <br />
+              <br />
+
+              <p>Choose your favourite Subject:</p>
+              <input type="checkbox" name="Subject" id="Subject" />
+              <label for="Subject">Maths</label>
+
+              <input type="checkbox" name="Subject" id="Subject" />
+              <label for="Subject">Physics</label>
+
+              <input type="checkbox" name="Subject" id="Subject" />
+              <label for="Subject">Chemistry</label>
+
+              <input type="checkbox" name="Subject" id="Subject" />
+              <label for="Subject">All Of These</label> <br />
+              <br />
+            <div class="button">
+              <button>Submit</button>
+              <button>Reset</button>
+            </div>
+            </form>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
