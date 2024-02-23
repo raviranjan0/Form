@@ -35,3 +35,6 @@ We welcome contributions! If you'd like to improve the form or add new features,
 3. Commit your changes: git commit -m 'Add a new feature'.
 4. Push to the branch: git push origin feature/new-feature.
 5. Submit a pull request.
+
+
+## Thank you
