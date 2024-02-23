@@ -4,8 +4,8 @@ Welcome to our registration form repository! This form is designed to collect ba
 ## Features
 Collects essential information for registration:
 
--Name
--father's Name
+- Name
+- father's Name
 -Mother's Name
 -Favorite Color
 -Favorite Subject
