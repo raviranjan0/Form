@@ -10,6 +10,7 @@ Collects essential informations for registration:
 - Date of Birth
 - Email
 - Gender
+- Mobile No.
 - Favorite Color
 - Favorite Subject
 - Easy-to-understand and user-friendly interface.
