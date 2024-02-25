@@ -1,14 +1,16 @@
 ## Registration Form
-Welcome to our registration form repository! This form is designed to collect basic information about individuals interested in joining our community. Feel free to use, modify, and contribute to this project.
+Welcome to my registration form repository! This form is designed to collect basic information about individuals interested in joining my community. Feel free to use, modify, and contribute to this project.
 
 ## Features
-Collects essential information for registration:
+Collects essential informations for registration:
 
 - Name
 - father's Name
 - Mother's Name
 - Date of Birth
+- Email
 - Gender
+- Mobile No.
 - Favorite Color
 - Favorite Subject
 - Easy-to-understand and user-friendly interface.
