@@ -4,7 +4,7 @@ Welcome to my registration form repository! This form is designed to collect bas
 ## Features
 Collects essential informations for registration:
 
-- Name..
+- Name
 - father's Name
 - Mother's Name
 - Date of Birth
