@@ -16,7 +16,8 @@ Collects essential informations for registration:
 - Easy-to-understand and user-friendly interface.
 
 ## Screenshot of form :
-![Screenshot (24)](https://github.com/raviranjan0/Form/assets/100368738/42f2d017-e1d0-4aa0-b85d-b1857e9d2885)
+
+![Screenshot (31)](https://github.com/raviranjan0/Form/assets/100368738/685b1554-44b7-4b6c-bb68-e9684cc85543)
 
 
 ## Clone the repository :
