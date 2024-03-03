@@ -28,7 +28,7 @@ git clone https://github.com/raviranjan0/form.git
 - Navigate to the project directory.
 - Open form.html in your preferred web browser.
 
-## Submit the Form:
+## Submit the Form :
 Fill out the required information in the form.
 Click the "Submit" button.
 
