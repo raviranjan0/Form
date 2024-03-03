@@ -32,7 +32,7 @@ git clone https://github.com/raviranjan0/form.git
 Fill out the required information in the form.
 Click the "Submit" button.
 
-## Contribution Guidelines
+## Contribution Guidelines :
 We welcome contributions! If you'd like to improve the form or add new features, follow these steps:
 
 1. Fork the repository.
