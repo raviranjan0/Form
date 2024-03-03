@@ -23,7 +23,7 @@ Collects essential informations for registration:
 ## Clone the repository :
 git clone https://github.com/raviranjan0/form.git
 
-## Open the Form:
+## Open the Form :
 
 - Navigate to the project directory.
 - Open form.html in your preferred web browser.
