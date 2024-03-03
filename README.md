@@ -1,7 +1,7 @@
 ## Registration Form
 Welcome to my registration form repository! This form is designed to collect basic information about individuals interested in joining my community. Feel free to use, modify, and contribute to this project.
 
-## Features
+## Features :
 Collects essential informations for registration:
 
 - Name
